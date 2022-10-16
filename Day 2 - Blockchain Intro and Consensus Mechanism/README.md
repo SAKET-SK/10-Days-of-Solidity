@@ -74,3 +74,4 @@ Why do we need Layer 2?
 Popular Blockchain Networks: 
 - Bitcoin: Bitcoin is a digital currency that uses blockchain technology to record its transactions. It was created in January 2009 by a mysterious guy named Satoshi Nakamoto.
 - Ethereum: Ethereum is a blockchain technology powering its currency (i.e Ethers) and many decentralized applications. As discussed earlier, it's a programmable blockchain that supports many applications in different domains. It was created in July 2015 by Vitalik Buterin. 
+- Binance: Binance started as a marketplace for trading crypto assets. It supports its cryptocurrency (i.e. BNB). In the beginning, BNB was dependent on the Ethereum blockchain, but now has its own blockchain known as Binance Chain. Binance was founded in 2017 by Changpeng Zhao.
