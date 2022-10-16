@@ -5,4 +5,4 @@ A 10 Day course from Metaschool where I will be learning the basics of Solidity
 - This section contains Day 1 and Day 2.
 
 ## Section 2: Solidity
-- All other sections.
+- All other days from 3 to 10.
