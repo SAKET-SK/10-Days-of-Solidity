@@ -11,6 +11,6 @@ A 10 Day course from Metaschool where I will be learning the basics of Solidity
 - Day 5 : Creating your own simple ERC-20 Contract
 - Day 6 : Useful Libraries and Open Zeppelin
 - Day 7 : Creating your own simple ERC-721 Contract
-- Day 8 :
+- Day 8 : Using IDEs : HardHat
 - Day 9 :
 - Day 10 :
