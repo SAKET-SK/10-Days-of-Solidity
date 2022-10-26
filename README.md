@@ -1,5 +1,5 @@
-# 10-Days-of-Solidity
-A 10 Day course from Metaschool where I will be learning the basics of Solidity
+# Solidity--Blockchain-NFT-Dapp
+A course from Metaschool where I will be learning the basics of Solidity, Blockchains, NFT and Dapps
 
 ## Section 1: Intro to Web 3
 - Day 1 : Intro to Web3
@@ -14,3 +14,7 @@ A 10 Day course from Metaschool where I will be learning the basics of Solidity
 - Day 8 : Using IDEs : HardHat
 - Day 9 : Wrting Unit Tests on Hardhat
 - Day 10 : Solidity Best Practices
+
+// NFT - Basics : Knowing all about NFTS
+
+// Smart Contract : A demo Hello World Smart Contract written on Remix IDE using Solidity Language
